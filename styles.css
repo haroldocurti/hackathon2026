@@ -387,27 +387,6 @@ h1 {
   width: var(--score);
 }
 
-.approval-strip {
-  background: var(--strip-bg, #17181d);
-  color: var(--strip-ink, #fff);
-  padding: 34px 24px;
-  text-align: center;
-}
-
-.approval-strip strong {
-  display: block;
-  font-size: clamp(1.5rem, 3vw, 2.5rem);
-  line-height: 1.05;
-  margin: 0 auto 8px;
-  max-width: 920px;
-}
-
-.approval-strip p {
-  margin: 0 auto;
-  max-width: 720px;
-  opacity: 0.76;
-}
-
 .quick-facts {
   background:
     linear-gradient(90deg, rgba(210, 70, 47, 0.08), rgba(244, 185, 66, 0.1), rgba(31, 138, 112, 0.08)),
