@@ -14,12 +14,28 @@ Esta lista serve para acompanhar o progresso das tarefas de organização do **H
 ---
 
 ## 📢 Fase 2: Comunicação, Divulgação e Inscrições
-*   [ ] Criar a identidade visual do evento (identidade de marcas, cartazes e criativos para redes sociais).
-*   [ ] Redigir os textos e e-mails de divulgação para os estudantes dos cursos técnicos.
+
+### Fase 2A: Mobilização Interna
+
+*   [ ] Preparar uma apresentação breve com propósito, estágio atual, decisões abertas e formas de participação.
+*   [ ] Mapear os públicos internos por área, grupo de cursos e período.
+*   [ ] Agendar encontros de lançamento em horários que contemplem diferentes períodos.
+*   [ ] Realizar rodas de conversa com docentes e equipes internas.
+*   [ ] Registrar dúvidas, ideias, limites e interesses de participação.
+*   [ ] Disponibilizar um formulário simples para mapear contribuições.
+*   [ ] Analisar as contribuições e publicar uma devolutiva para a comunidade interna.
+*   [ ] Formar uma rede de pessoas mobilizadoras por área ou grupo de cursos e período.
+*   [ ] Preparar um kit de divulgação para conversas com as turmas.
+*   [ ] Confirmar que docentes e equipes internas conhecem o canal oficial de dúvidas.
+
+### Fase 2B: Divulgação para Estudantes e Inscrições
+
+*   [ ] Criar a identidade visual do evento, com cartazes e peças para os canais internos.
+*   [ ] Redigir os textos e e-mails de divulgação para estudantes dos cursos técnicos.
 *   [ ] Estruturar o formulário oficial de inscrições (com campos para formação de grupos e escolha preliminar de trilhas).
-*   [ ] Realizar visitas rápidas nas salas de aula (sensibilização dos estudantes de diferentes turnos).
-*   [ ] Criar um espaço para tirar dúvidas dos estudantes sobre o regulamento e a dinâmica do evento.
-*   [ ] Consolidação das inscrições e homologação das equipes participantes.
+*   [ ] Apresentar o evento nas turmas com apoio da equipe docente e da rede mobilizadora.
+*   [ ] Criar um espaço para responder dúvidas sobre o regulamento e a dinâmica do evento.
+*   [ ] Consolidar as inscrições e homologar as equipes participantes.
 
 ---
 
@@ -28,15 +44,15 @@ Esta lista serve para acompanhar o progresso das tarefas de organização do **H
 *   [ ] Validar a infraestrutura de rede (testar conectividade e velocidade da internet Wi-Fi para picos de uso).
 *   [ ] Planejar a alimentação do evento (definição de coffee breaks para os dois dias e hidratação das equipes).
 *   [ ] Mapear e convidar potenciais empresas parceiras do mercado de Ribeirão Preto para apoio ou possível incubação de projetos.
-*   [ ] Providenciar crachás ou pulseiras de identificação para participantes, mentores e jurados.
+*   [ ] Providenciar crachás ou pulseiras de identificação para participantes, mentoria e banca avaliadora.
 
 ---
 
-## ⚖️ Fase 4: Mentoria e Corpo de Jurados
+## ⚖️ Fase 4: Mentoria e Banca Avaliadora
 *   [ ] Convidar docentes da unidade para atuarem como mentores no Dia 2 do evento.
 *   [ ] Elaborar um guia rápido/roteiro de mentoria baseada em escuta ativa e mediação (sem entregar soluções prontas).
-*   [ ] Convidar os jurados externos (técnico, social e negócios/mercado) e confirmar presença.
-*   [ ] Desenhar a matriz de avaliação detalhada (rubrica operativa) para distribuição aos jurados.
+*   [ ] Convidar pessoas especialistas das áreas técnica, social e de negócios para a banca avaliadora e confirmar presença.
+*   [ ] Desenhar a matriz de avaliação detalhada (rubrica operativa) para uso da banca avaliadora.
 *   [ ] Preparar a planilha ou sistema de consolidação de notas da banca examinadora.
 
 ---
@@ -51,13 +67,13 @@ Esta lista serve para acompanhar o progresso das tarefas de organização do **H
     *   [ ] Abertura dos trabalhos e início do desenvolvimento.
     *   [ ] Rodadas periódicas de mentoria ativa nas mesas das equipes.
     *   [ ] Encerramento do prazo de submissão dos protótipos e materiais de apoio.
-    *   [ ] Rodada de pitches perante a banca de jurados.
+    *   [ ] Rodada de pitches para a banca avaliadora.
     *   [ ] Consolidação das notas, anúncio das colocações e cerimônia de premiação.
 
 ---
 
 ## 📈 Fase 6: Pós-Evento e Desdobramentos
-*   [ ] Enviar formulário de avaliação do evento para os participantes, mentores e jurados.
+*   [ ] Enviar o formulário de avaliação do evento para participantes, mentoria e banca avaliadora.
 *   [ ] Emitir e enviar os certificados de participação e premiação.
 *   [ ] Elaborar o relatório final de resultados para a gerência da unidade.
 *   [ ] Realizar reuniões de acompanhamento com as equipes vencedoras para conectar seus projetos com empresas parceiras ou incubadoras locais.

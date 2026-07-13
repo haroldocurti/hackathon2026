@@ -6,7 +6,7 @@ Romper barreiras físicas, sensoriais e cognitivas nos ambientes cotidiano e dig
 ---
 
 ## 🎯 Marcas Formativas em Foco
-Ao trabalhar nesta trilha, os estudantes mobilizarão e demonstrarão intensamente as seguintes marcas formativas:
+Nesta trilha, estudantes poderão mobilizar e demonstrar estas marcas formativas:
 *   **Visão Crítica:** Para identificar as barreiras invisíveis de acessibilidade que excluem parcelas da população do cotidiano social e digital.
 *   **Autonomia Digital:** No desenvolvimento de soluções que capacitem o usuário final a interagir com interfaces, serviços ou dispositivos de forma independente.
 *   **Atitude Sustentável:** Focada na sustentabilidade social, garantindo que a inovação tecnológica não gere mais desigualdade ou exclusão.
@@ -33,7 +33,7 @@ Segundo dados oficiais do [Censo Demográfico 2022 do IBGE](https://cidades.ibge
 ---
 
 ## ❓ Problematizações e Perguntas Norteadoras
-Para desenvolver a solução de impacto, as equipes devem debruçar-se sobre os problemas apresentados pelas personas. As soluções propostas podem envolver novos processos, serviços ou dispositivos físicos, desde que apoiados por tecnologia (no núcleo da ideia ou como viabilização). Considere as seguintes questões:
+Para desenvolver a solução de impacto, as equipes devem compreender os problemas apresentados pelas personas. As propostas podem envolver novos processos, serviços ou dispositivos físicos, com a tecnologia no núcleo da ideia ou como ferramenta de apoio. Considere estas questões:
 *   *De que maneira podemos reestruturar a jornada de atendimento e compra de pequenos comércios de bairro para que pessoas idosas com limitações visuais e motoras consigam consumir de forma autônoma (seja por canais físicos adaptados por tecnologia, assistentes de voz ou fluxos simplificados)?*
 *   *Como viabilizar que deficientes visuais e auditivos naveguem e consumam informações em espaços físicos e culturais de Ribeirão Preto de forma independente (utilizando, por exemplo, recursos de sinalização inteligente, áudio-guias ou mapeamento interativo)?*
 *   *Como apoiar pequenos estabelecimentos comerciais da cidade a implementarem recursos inclusivos de baixo custo e alta aplicabilidade prática para atender a toda a diversidade de clientes?*

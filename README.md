@@ -11,6 +11,9 @@ Este diretório centraliza toda a estruturação, documentos, desafios e registr
 Atualmente, a pasta está organizada da seguinte forma:
 
 *   **`README.md`**: Este guia de navegação e status do projeto (este arquivo).
+*   **[index.html](index.html)**: Central da organização, com status atual, decisões, cronograma, frentes de trabalho e biblioteca do projeto.
+*   **Páginas HTML internas**: `cronograma.html`, `status.html`, `mobilizacao-interna.html`, `projeto.html`, `regulamento.html`, `tarefas.html`, `trilhas.html`, `tematica.html`, `fundamentos.html` e `portal.html` apresentam o conteúdo dos documentos em linguagem e navegação web.
+*   **[cronograma-desenvolvimento.md](cronograma-desenvolvimento.md)**: Cronograma mestre do projeto, com prazos, entregas, responsáveis sugeridos, dependências e marcos de decisão.
 *   **[afazeres.md](file:///c:/Users/inomi/OneDrive%20-%20SENAC%20-%20SP/TI/Desenvolvimento%20de%20Sistemas/T01%20(teste)/hackathon%202026/afazeres.md)**: Lista de tarefas para controle e acompanhamento do planejamento do evento.
 *   **[Projeto Hackathon 2026.md](file:///c:/Users/inomi/OneDrive%20-%20SENAC%20-%20SP/TI/Desenvolvimento%20de%20Sistemas/T01%20(teste)/hackathon%202026/Projeto%20Hackathon%202026.md)**: Documento de referência do projeto inicial, contendo manifesto, trilhas de desafios, critérios de avaliação e resultados esperados.
 *   **[regulamento.md](file:///c:/Users/inomi/OneDrive%20-%20SENAC%20-%20SP/TI/Desenvolvimento%20de%20Sistemas/T01%20(teste)/hackathon%202026/regulamento.md)**: Esboço do regulamento do evento, incluindo regras de participação, critérios de avaliação e dinâmica geral.
@@ -30,6 +33,8 @@ Atualmente, a pasta está organizada da seguinte forma:
 
 ## 🗺️ Próximos Passos do Planejamento
 
+> **Referência de execução:** consulte o [Cronograma de Desenvolvimento](cronograma-desenvolvimento.md), atualizado com a linha de base de 13 de julho de 2026 e os marcos até o pós-evento.
+
 Para transformar a estrutura conceitual em um evento de sucesso, precisamos detalhar as seguintes frentes de trabalho:
 
 1.  **Regulamento do Evento**: Criar as regras de participação, critérios de desempate e políticas de formação de grupos (incluindo a integração com o EMED e Idiomas).
@@ -48,9 +53,24 @@ Para transformar a estrutura conceitual em um evento de sucesso, precisamos deta
 
 Como parceiro de planejamento, posso auxiliar você em cada etapa:
 
-*   **Desenho de Rubricas**: Use o comando `/criar_rubrica_operatoria` para estruturar a avaliação do júri alinhada com as competências profissionais do Senac.
+*   **Desenho de Rubricas**: Estruturar a avaliação da banca de forma alinhada às competências profissionais do Senac.
 *   **Mediação Docente**: Podemos estruturar roteiros de mentoria baseados em metodologias ativas para apoiar nossos docentes durante a orientação dos grupos.
-*   **Produção de Conteúdo**: Redação de e-mails de convite para jurados e mentores, regulamentos oficiais e guias para os estudantes.
+*   **Produção de Conteúdo**: Redigir convites para banca e mentoria, regulamentos e guias para estudantes.
 
 > [!TIP]
 > Para avançar, escolha uma das frentes dos **Próximos Passos** (por exemplo, "detalhar os desafios da Trilha 1" ou "esboçar o Regulamento") e me diga por onde gostaria de começar!
+
+---
+
+## 🔄 Fluxo editorial do portal
+
+Os arquivos Markdown permanecem como fontes internas de conteúdo. As pessoas organizadoras consultam apenas as páginas HTML do portal.
+
+O ciclo de atualização será:
+
+1. atualizar os arquivos `.md` correspondentes;
+2. executar `gerar-site.ps1` para reconstruir as páginas dedicadas;
+3. revisar a página principal, o status e os destaques que dependem de decisões recentes;
+4. validar os links e publicar a nova versão do portal.
+
+O gerador converte os documentos em páginas com cabeçalho, navegação, sumário, tabelas responsivas e atalhos para outras áreas da organização.

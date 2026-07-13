@@ -4,6 +4,33 @@
 
 O site sera o portal oficial do Hackathon Senac Ribeirao Preto 2026. Deve apresentar o projeto, organizar as informacoes essenciais para participantes e equipe organizadora, publicar regras, centralizar materiais, mostrar cronograma, explicar trilhas/desafios e instigar colaboracao.
 
+### Decisao de produto — 13 de julho de 2026
+
+O site passa a ter como publico prioritario, nesta etapa, a **equipe organizadora**. Sua primeira funcao e ser a central de gestao e consulta do projeto, permitindo que qualquer pessoa da organizacao identifique rapidamente:
+
+- a fase atual e o proximo marco;
+- as decisoes pendentes e seus prazos;
+- as frentes de trabalho e responsabilidades;
+- o cronograma mestre;
+- os riscos e bloqueios imediatos;
+- os documentos oficiais e materiais de referencia;
+- as informacoes consolidadas do evento.
+
+O conteudo voltado aos participantes continua presente como referencia, mas deixa de ocupar a primeira camada da experiencia. A pagina inicial deve abrir com a visao executiva da organizacao.
+
+### Decisao de arquitetura — 13 de julho de 2026
+
+O portal deixa de ficar restrito a uma pagina unica. A pagina inicial funciona como painel executivo e cada grande grupo de informacao possui uma pagina HTML dedicada: cronograma, status, projeto, regulamento, tarefas, trilhas, tematica, fundamentos pedagogicos e memoria do portal.
+
+Os arquivos Markdown sao fontes editoriais internas e nao devem ser abertos diretamente pela navegacao publica. O fluxo de manutencao passa a ser:
+
+1. atualizar os documentos Markdown;
+2. gerar novamente as paginas HTML correspondentes;
+3. revisar os destaques da pagina inicial;
+4. validar a navegacao e publicar.
+
+Esse modelo permite que a equipe mantenha informacoes extensas e detalhadas sem sobrecarregar a pagina principal, ao mesmo tempo em que preserva uma unica fonte de conteudo para futuras atualizacoes.
+
 O sucesso da primeira versao e que, em uma unica experiencia de navegacao, qualquer participante entenda:
 
 - o que e o Hackathon;

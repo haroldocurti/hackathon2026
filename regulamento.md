@@ -1,12 +1,12 @@
 # Regulamento Geral — Hackathon Senac Ribeirão Preto 2026 🏆
 
-Boas-vindas ao regulamento oficial do **Hackathon Senac Ribeirão Preto 2026**! Este documento orienta a participação de estudantes, mentores e jurados nesta maratona de inovação e impacto social.
+Boas-vindas ao regulamento do **Hackathon Senac Ribeirão Preto 2026**! Aqui você encontra as orientações para equipes, mentoria e banca avaliadora participarem desta maratona de inovação e impacto social.
 
 ---
 
 ## 1. Do Objetivo e Filosofia do Evento
 
-O Hackathon Senac 2026 é um evento focado no desenvolvimento de soluções de impacto voltadas a desafios reais da nossa sociedade, que se utilizem de tecnologia (seja no seu core ou como ferramenta de suporte/viabilização). Pautado no "aprender fazendo" e no protagonismo dos participantes, o evento busca promover a empatia, a colaboração em equipe e a atitude empreendedora para criar soluções de impacto social, econômico e ambiental.
+O Hackathon Senac 2026 convida estudantes a criar soluções para desafios reais da sociedade, usando a tecnologia como elemento central ou ferramenta de apoio. Com o "aprender fazendo" e o protagonismo de quem participa, o evento estimula empatia, colaboração e atitude empreendedora para gerar impacto social, econômico e ambiental.
 
 ---
 
@@ -18,18 +18,18 @@ O Hackathon Senac 2026 é um evento focado no desenvolvimento de soluções de i
 
 ### 2.2. Composição das Equipes
 *   As equipes devem ser formadas por no mínimo **três** e no máximo **seis** integrantes.
-*   **Equipes Mistas:** É altamente recomendada a formação de equipes compostas por estudantes de diferentes cursos (por exemplo, integrando alunos de Tecnologia da Informação, Administração, Logística e Design), valorizando a pluriversalidade e a diversidade de ideias.
+*   **Equipes Mistas:** Recomendamos equipes formadas por estudantes de diferentes cursos, reunindo, por exemplo, pessoas das áreas de Tecnologia da Informação, Gestão e Negócios, Logística e Design. Essa diversidade amplia conhecimentos e pontos de vista.
 *   Não há restrição para equipes formadas por integrantes de um único curso, embora a diversidade de competências seja um diferencial para o desenvolvimento da solução.
 
 ---
 
 ## 3. Da Dinâmica e Cronograma Geral
 
-O evento ocorrerá de forma presencial e híbrida nos dias **6 e 7 de novembro de 2026** na unidade do Senac Ribeirão Preto:
+O evento acontecerá em formato presencial nos dias **6 e 7 de novembro de 2026**, no Senac Ribeirão Preto. O primeiro dia poderá incluir atividades a distância, se essa possibilidade for confirmada pela organização.
 
 *   **Dia 1: Capacitação e Conexão**
     *   Focado em formações práticas, oficinas rápidas, palestras inspiradoras e dinâmicas de integração e networking para consolidação das equipes.
-    *   Este dia poderá contar com transmissão ou atividades híbridas para ampliar o acesso.
+    *   Este dia poderá contar com transmissão ou atividades a distância para ampliar o acesso.
 *   **Dia 2: Maratona de Desenvolvimento (O Desafio)**
     *   Dia inteiramente dedicado à criação da solução de impacto.
     *   **Equipe de Mentores:** Durante todo o desenvolvimento, docentes da unidade e especialistas de mercado (das áreas de TI, Negócios, Saúde e Social) atuarão como mentores, circulando entre os grupos para orientar, validar ideias e tirar dúvidas.
@@ -61,7 +61,7 @@ Ao encerramento da maratona no segundo dia, cada equipe deverá submeter os segu
 
 ## 6. Dos Critérios de Avaliação e Julgamento
 
-Os projetos serão analisados pelo corpo de jurados com base nos seguintes critérios e pesos:
+Os projetos serão analisados pela banca avaliadora com base nos seguintes critérios e pesos:
 
 | Critério | Peso | Foco da Avaliação |
 | :--- | :---: | :--- |
@@ -71,11 +71,11 @@ Os projetos serão analisados pelo corpo de jurados com base nos seguintes crit�
 | **Experiência do Usuário (Protótipo)** | 15% | Facilidade de uso da interface ou clareza na jornada e lógica de quem utiliza o serviço. |
 | **Pitch e Comunicação** | 10% | Clareza na exposição, respeito ao tempo estabelecido e qualidade das respostas à banca. |
 
-### 6.1. O Corpo de Jurados
-A banca examinadora será composta por no mínimo três membros:
-*   **Um(a) especialista técnico(a):** Responsável por analisar o protótipo e a aplicação de tecnologia.
-*   **Um(a) especialista social/educacional:** Focado(a) no impacto real e adequação pedagógica/social.
-*   **Um(a) representante do mercado/empreendedor local:** Focado(a) em avaliar a viabilidade econômica do projeto.
+### 6.1. A Banca Avaliadora
+A banca avaliadora será formada por pelo menos três pessoas:
+*   **Uma pessoa especialista técnica:** analisa o protótipo e a aplicação de tecnologia.
+*   **Uma pessoa especialista social ou educacional:** analisa o impacto real e a adequação social e pedagógica.
+*   **Uma pessoa representante do mercado local:** analisa a viabilidade econômica do projeto.
 
 ---
 

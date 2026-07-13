@@ -1,8 +1,13 @@
 # Relatório de Status e Alinhamento Pedagógico — Hackathon Senac 2026 🏆
 
-**Status do Projeto:** Fase 1 (Alinhamento Pedagógico) - ~80% concluída.  
-**Data do Evento:** 6 e 7 de novembro de 2026.  
-**Local:** Senac Ribeirão Preto.  
+**Status do Projeto:** encerramento da Fase 1 (alinhamento pedagógico) e preparação da Fase 2A (mobilização interna).
+
+**Última revisão:** 13 de julho de 2026.
+
+**Data do Evento:** 6 e 7 de novembro de 2026.
+
+**Local:** Senac Ribeirão Preto.
+
 **Público-Alvo:** Estudantes de Cursos Técnicos (Regular) e Hackateen (EMED/Cursos Livres).
 
 ---
@@ -45,7 +50,7 @@ Para guiar as equipes, dividimos os desafios em **5 Trilhas Temáticas** focadas
 ## ⚖️ 3. Esboço do Regulamento Geral
 
 O regulamento de participação já possui suas bases estruturadas na pasta raiz:
-*   **Formação de Equipes:** Grupos de **3 a 6 alunos**, com forte incentivo a equipes mistas (multidisciplinares, compostas de diferentes cursos).
+*   **Formação de Equipes:** Grupos de **3 a 6 estudantes**, com incentivo a equipes mistas, formadas por pessoas de diferentes cursos.
 *   **Categoria Concomitante (Hackateen):** Um espaço exclusivo para estudantes do Ensino Médio Técnico (EMED) e Cursos Livres, permitindo competições justas entre diferentes níveis formativos.
 *   **Entregáveis Mandatórios:** 
     1.  *Protótipo funcional ou simulação do serviço* apoiada em tecnologia.
@@ -70,19 +75,26 @@ O regulamento de participação já possui suas bases estruturadas na pasta raiz
 
 Abaixo está o mapeamento das atividades planejadas por fase e seu respectivo status atual:
 
+> **Cronograma oficial de execução:** o detalhamento semanal, com responsáveis sugeridos, dependências e marcos de decisão, está em [cronograma-desenvolvimento.md](cronograma-desenvolvimento.md). O gráfico abaixo permanece como visão resumida.
+
 ```mermaid
 gantt
     title Cronograma de Fases — Planejamento Hackathon 2026
     dateFormat  YYYY-MM-DD
     section Fase 1: Pedagógico
     Identidade, Esboços e Trilhas   :done,    des1, 2026-06-01, 2026-06-25
-    Revisão Regulamento & UCs       :active,  des2, 2026-06-26, 2026-07-15
-    section Fase 2: Divulgação
-    Identidade Visual e Inscrições  :todo,    des3, 2026-07-16, 2026-08-30
-    section Fase 3: Logística
-    Reservas, Wi-Fi e Parcerias    :todo,    des4, 2026-09-01, 2026-10-15
-    section Fase 5: Execução
-    Realização do Evento            :todo,    des5, 2026-11-06, 2026-11-07
+    Revisão Regulamento & UCs       :active,  des2, 2026-06-26, 2026-07-24
+    section Fase 2: Mobilização e comunicação
+    Mobilização interna             :des3a, 2026-07-20, 2026-08-14
+    Divulgação e inscrições         :des3b, 2026-08-17, 2026-09-18
+    section Fase 3: Operação
+    Espaços, infraestrutura e parcerias :des4, 2026-08-10, 2026-10-23
+    section Fase 4: Pessoas e conteúdo
+    Mentoria, banca, guias e rubrica :des5, 2026-08-17, 2026-10-23
+    section Fase 5: Preparação e execução
+    Ensaio, montagem e realização   :des6, 2026-10-26, 2026-11-07
+    section Fase 6: Pós-evento
+    Avaliação, certificados e relatório :des7, 2026-11-09, 2026-11-20
 ```
 
 ### ✅ O que já foi concluído:
@@ -93,12 +105,13 @@ gantt
 
 ### ⏳ Próximos Passos Pedagógicos (Fase 1 - Pendentes):
 *   [ ] **Revisão final do Regulamento Geral** com a coordenação pedagógica da unidade.
-*   [ ] **Mapeamento de Indicadores de Unidades Curriculares (UCs)**: Alinhamento com a equipe docente para definir quais competências formais dos planos de curso dos alunos poderão ser avaliadas e convalidadas a partir do envolvimento e das entregas do Hackathon (reforçando a avaliação formativa).
+*   [ ] **Mapeamento de Indicadores de Unidades Curriculares (UCs)**: Alinhar com a equipe docente quais competências dos planos de curso poderão ser observadas e validadas por meio da participação e das entregas do Hackathon, fortalecendo a avaliação formativa.
 
 ### 📢 Demais Fases a Iniciar:
-*   **Fase 2 (Divulgação/Comunicação):** Criação da identidade visual, confecção de cartazes, redação de comunicados por e-mail/WhatsApp, e visitas presenciais para sensibilização de alunos.
+*   **Fase 2A (Mobilização Interna):** Apresentar o projeto a docentes e equipes internas, abrir espaços de escuta e cocriação, mapear interesses e formar uma rede mobilizadora.
+*   **Fase 2B (Divulgação para Estudantes):** Após a mobilização interna, criar a campanha, preparar docentes e equipes de apoio e apresentar o evento às turmas com mensagens e materiais consistentes.
 *   **Fase 3 (Logística/Infraestrutura):** Reserva do auditório e laboratórios no Senac, teste de capacidade de banda de Wi-Fi e contato com empresas para possível apoio ou incubação.
-*   **Fase 4 (Jurados/Mentores):** Convites formais para banca de especialistas externos, convite a docentes para atuarem como mentores no Dia 2 e distribuição das planilhas de nota.
+*   **Fase 4 (Banca/Mentoria):** Convidar especialistas para a banca avaliadora e docentes para a mentoria do Dia 2, além de preparar os instrumentos de avaliação.
 
 ---
 

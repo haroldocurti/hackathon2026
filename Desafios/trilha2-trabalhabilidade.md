@@ -6,7 +6,7 @@ Utilizar a tecnologia e a inovação em processos como motores de emancipação 
 ---
 
 ## 🎯 Marcas Formativas em Foco
-Ao trabalhar nesta trilha, os estudantes mobilizarão e demonstrarão intensamente as seguintes marcas formativas:
+Nesta trilha, estudantes poderão mobilizar e demonstrar estas marcas formativas:
 *   **Criatividade e Atitude Empreendedora:** Para identificar oportunidades viáveis de negócios ou melhorias no fluxo de conexões profissionais locais.
 *   **Protagonismo Juvenil, Social e Econômico:** No desenho de soluções que coloquem o trabalhador e o estudante como agentes principais de sua autonomia financeira.
 *   **Colaboração e Comunicação:** Na facilitação de canais eficientes e transparentes de interação comercial e profissional de cooperação.
@@ -33,7 +33,7 @@ Ribeirão Preto destaca-se como um polo de empreendedorismo e inovação no inte
 ---
 
 ## ❓ Problematizações e Perguntas Norteadoras
-Para desenvolver a solução de impacto, as equipes devem debruçar-se sobre os problemas apresentados pelas personas. As soluções propostas podem envolver novos processos, parcerias, cooperativas ou modelos de negócios, desde que apoiados por tecnologia (seja no core ou como suporte). Considere as seguintes questões:
+Para desenvolver a solução de impacto, as equipes devem compreender os problemas apresentados pelas personas. As propostas podem envolver novos processos, parcerias, cooperativas ou modelos de negócios, com a tecnologia no núcleo da solução ou como apoio. Considere estas questões:
 *   *De que maneira podemos reestruturar o fluxo de divulgação e contratação de serviços de jovens recém-formados e prestadores autônomos da periferia, conectando-os aos contratantes de Ribeirão Preto de forma confiável e justa?*
 *   *Como a tecnologia pode apoiar microempreendedores (MEIs) locais a organizarem suas rotinas administrativas, controles financeiros ou entregas de forma extremamente simples, sem criar barreiras técnicas ou operacionais no seu dia a dia de trabalho?*
 *   *Como incentivar jovens e microempreendedores a adotarem melhores práticas de controle financeiro, planejamento e precificação de serviços através de recursos de simulação ou aprendizado prático apoiado por tecnologia?*

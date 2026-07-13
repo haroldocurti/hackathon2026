@@ -6,7 +6,7 @@ Criar soluções de impacto que estimulem o equilíbrio entre o progresso humano
 ---
 
 ## 🎯 Marcas Formativas em Foco
-Ao trabalhar nesta trilha, os estudantes mobilizarão e demonstrarão intensamente as seguintes marcas formativas:
+Nesta trilha, estudantes poderão mobilizar e demonstrar estas marcas formativas:
 *   **Atitude Sustentável:** No centro da trilha, desenvolvendo a consciência socioambiental e projetando soluções ecoeficientes para a comunidade.
 *   **Visão Crítica:** Para analisar os padrões atuais de consumo descartável e os impactos ecológicos gerados pelas cadeias lineares de suprimentos.
 *   **Criatividade e Atitude Empreendedora:** Propondo novos modelos de economia circular e negócios viáveis baseados no aproveitamento inteligente de resíduos.
@@ -33,7 +33,7 @@ O manejo de resíduos é um dos grandes desafios urbanos de Ribeirão Preto. O m
 ---
 
 ## ❓ Problematizações e Perguntas Norteadoras
-Para desenvolver a solução de impacto, as equipes devem debruçar-se sobre os problemas apresentados pelas personas. As propostas podem abranger novos modelos logísticos, campanhas de incentivo, organizações de feiras locais ou parcerias cooperativas, integradas com suporte tecnológico. Considere as seguintes questões:
+Para desenvolver a solução de impacto, as equipes devem compreender os problemas apresentados pelas personas. As propostas podem incluir novos modelos logísticos, campanhas, feiras locais ou parcerias entre cooperativas, sempre com apoio da tecnologia. Considere estas questões:
 *   *De que forma podemos engajar e mobilizar a população de Ribeirão Preto no descarte correto e coleta de resíduos complexos (como lixo eletrônico e pilhas), aproximando-a dos postos de coleta e cooperativas por meio de incentivos e informações facilitadas por tecnologia?*
 *   *Como estruturar novos fluxos de economia circular e logística de alimentos que facilitem a comercialização direta e evitem o desperdício das sobras de pequenos produtores agrícolas regionais, reduzindo a pegada de carbono do transporte?*
 *   *Como a tecnologia pode atuar no monitoramento, prevenção ou redução de desperdício em comércios de alimentos locais ou em refeitórios institucionais da cidade de Ribeirão Preto?*

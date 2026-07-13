@@ -7,11 +7,11 @@ Mais do que desenvolver código, queremos que nossos participantes desenvolvam *
 
 > [!NOTE]
 > **Manifesto:**
-> A Hackathon SENAC 2026 nasce com um propósito claro: unir talentos, criatividade e tecnologia para transformar realidades.
+> O Hackathon Senac 2026 nasce com um propósito claro: unir talentos, criatividade e tecnologia para transformar realidades.
 >
-> Para tal, propomos uma abertura do desafio para todos os cursos e estudantes da unidade, propiciando um evento pluriversal, que valoriza e aloca no espaço educacional toda a diversidade, integrante fundamental do ethos do Senac.
+> Por isso, propomos um desafio aberto a todos os cursos e estudantes da unidade. Queremos um evento plural, que acolha diferentes trajetórias, conhecimentos e formas de participar — parte essencial do jeito Senac de educar.
 >
-> O objetivo material do desafio é a criação de uma solução de impacto que utilize a tecnologia (seja no seu core ou como ferramenta de suporte/viabilização) e gere valor real e significativo para toda a comunidade, reforçando o compromisso com nossas marcas formativas e o "aprender fazendo". Não é, somente, sobre como a tecnologia pode gerar valor, mas sim posicioná-la como artifício de transformação econômica, política e social.
+> O desafio é criar uma solução de impacto que use a tecnologia como elemento central ou ferramenta de apoio e gere valor real para a comunidade. Assim, colocamos o "aprender fazendo" e as marcas formativas em prática. Mais do que gerar valor, queremos usar a tecnologia para apoiar transformações econômicas, políticas e sociais.
 >
 > Aqui, cada **solução** pode gerar inclusão. Cada **proposta** pode ampliar oportunidades. Cada **ideia** pode mudar histórias.
 >
@@ -22,7 +22,7 @@ Mais do que desenvolver código, queremos que nossos participantes desenvolvam *
 ## ⚙️ Estruturação Preliminar Básica
 
 ### Quem participa?
-Nesta edição, gostaríamos de estender a todos os alunos de **cursos técnicos** do Senac Ribeirão Preto, em grupos de até seis pessoas. Estes grupos poderão ser mistos ou com componentes apenas de um curso.
+Nesta edição, queremos receber estudantes de **cursos técnicos** do Senac Ribeirão Preto, em equipes de até seis pessoas. As equipes poderão reunir pessoas de diferentes cursos ou de uma mesma formação.
 
 Há também a possibilidade de uma versão concomitante (**Hackateen**) do desafio voltada para o Ensino Médio Técnico (EMED) e cursos livres (como Idiomas).
 
@@ -78,7 +78,7 @@ O Desafio de 2026 se torna um pouco mais aberto, adotando uma estrutura em **Tri
 *   **Onde:** Na unidade do Senac Ribeirão Preto.
 *   **Quando:** 6 e 7 de novembro de 2026.
 *   **Duração:** Duração de dois dias de evento:
-    *   *1º Dia:* Formações, workshops e espaço de networking para os participantes (formato presencial ou híbrido).
+    *   *1º Dia:* Formações, oficinas e espaço de conexão entre participantes, em formato presencial e, se confirmado, com atividades a distância.
     *   *2º Dia:* O desafio propriamente dito (maratona de desenvolvimento de soluções).
 *   **Suporte e Mentoria:** Durante todo o segundo dia, especialistas de diversas áreas (TI, Negócios, Saúde e Social) atuarão como mentores, orientando as equipes na validação de suas ideias e refinamento do projeto.
 
@@ -90,7 +90,7 @@ Ao final do segundo dia, as equipes participantes deverão apresentar:
 1.  **Protótipo da Solução:** Demonstração prática do funcionamento (seja um mockup de tela, fluxograma de processo, modelo físico ou roteiro de serviço estruturado com suporte de ferramentas tecnológicas).
 2.  **Apresentação de Impacto:** Material visual resumindo a proposta de valor e a transformação gerada.
 3.  **Modelo de Viabilidade:** Demonstração realista de sustentação financeira ou parcerias institucionais.
-4.  **Pitch de 3 a 5 minutos:** Apresentação oral para a banca de jurados.
+4.  **Pitch de 3 a 5 minutos:** Apresentação oral para a banca avaliadora.
 
 ### Tabela de Critérios de Avaliação
 
@@ -102,22 +102,22 @@ Ao final do segundo dia, as equipes participantes deverão apresentar:
 | **Experiência do Usuário (Protótipo)** | 15% | O protótipo ou fluxo de serviço é fácil de entender? A jornada de quem usa faz sentido? |
 | **Pitch e Comunicação** | 10% | A apresentação foi clara, apaixonada e respeitou o tempo limite? O grupo respondeu bem às perguntas? |
 
-### Organização da Premiação e Júri
+### Organização da Premiação e Banca Avaliadora
 
 *   **Opções de Colocações:**
     *   *Opção A:* Pódio simples com três equipes (1º, 2º e 3º lugar geral).
     *   *Opção B:* Uma equipe vencedora por critério específico e uma grande vencedora geral.
-*   **Corpo de Jurados Sugerido:**
-    *   **Um(a) especialista técnico(a)** (para avaliar o protótipo e uso de tecnologia);
-    *   **Um(a) especialista da área social ou educacional** (para avaliar o impacto social);
-    *   **Um(a) empreendedor(a) ou representante do mercado local** (para avaliar a viabilidade).
+*   **Composição sugerida da banca avaliadora:**
+    *   **Uma pessoa especialista técnica**, para avaliar o protótipo e o uso de tecnologia;
+    *   **Uma pessoa especialista da área social ou educacional**, para avaliar o impacto social;
+    *   **Uma pessoa representante do mercado local**, para avaliar a viabilidade.
 
 ---
 
 ## 📈 Resultados Esperados
 
 ### 1. Visibilidade e Posicionamento Institucional
-*   Mais um passo rumo à consolidação do Senac Ribeirão Preto como um **Hub de Inovações Sociais**, conectando a marca à vanguarda da transformação e às soluções para problemas reais da cidade.
+*   Mais um passo para consolidar o Senac Ribeirão Preto como referência em **inovação social**, conectando a instituição a soluções para desafios reais da cidade.
 *   Geração de mídia espontânea e fortalecimento da imagem institucional perante a comunidade e órgãos públicos através da divulgação de projetos de impacto.
 
 ### 2. Engajamento e Permanência (Retenção)

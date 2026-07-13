@@ -36,7 +36,7 @@ Utilizaremos quatro metáforas centrais do tear para orientar o ethos do nosso e
 
 ### 3. A Urdidura e a Trama (Interdisciplinaridade)
 *   **A Metáfora:** Na tecelagem, a **urdidura** são os fios fixados verticalmente no tear, que dão a estrutura de sustentação. A **trama** são os fios que cruzam horizontalmente, criando os desenhos, cores e texturas.
-*   **A Aplicação:** A nossa estrutura pedagógica e administrativa do Senac (nosso corpo de docentes e funcionários) é a *urdidura* que dá suporte e segurança. As ideias, projetos e a diversidade dos estudantes são a *trama* que colore o evento. Um não existe sem o outro.
+*   **A Aplicação:** A equipe pedagógica, docente e administrativa do Senac é a *urdidura* que oferece suporte e segurança. As ideias, os projetos e a diversidade de estudantes são a *trama* que colore o evento. Um não existe sem o outro.
 
 ### 4. Tecendo o Belo, o Justo e o Bom (Atitude Sustentável)
 *   **A Metáfora:** O tear tradicional é sustentável, aproveita retalhos e fios que sobraram, dando-lhes utilidade e valor estético através da economia circular.
@@ -57,4 +57,4 @@ Para envolver e gerar empatia em toda a unidade de Ribeirão Preto, a temática 
 *   **Ações de Integração e Abertura:**
     *   **Espaço Temático no Check-in:** Montar um painel ou pequeno expositor de boas-vindas com fios coloridos e cartões perfurados decorativos (representando o Tear de Jacquard), onde cada participante amarra um pedaço de fio ao entrar, representando a sua contribuição na "trama" do evento.
     *   **Narrativa de Abertura:** Realizar uma fala inspiradora na cerimônia de abertura contextualizando a história de Jacquard, Ada Lovelace e Charles Babbage, demonstrando de forma sensível a união de processos, artesanato e tecnologia.
-    *   **Corpo de Jurados Integrado:** Convidar colaboradores de setores administrativos e pedagógicos da unidade para atuarem como jurados da banca examinadora (avaliando principalmente os critérios de *Impacto Social* e *Viabilidade*), aproximando esses profissionais das produções dos estudantes.
+    *   **Banca Avaliadora Integrada:** Convidar pessoas das equipes administrativa e pedagógica da unidade para participar da banca, com atenção especial aos critérios de *Impacto Social* e *Viabilidade*. Essa aproximação valoriza as produções das equipes e amplia o diálogo dentro da unidade.
