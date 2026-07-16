@@ -4,6 +4,15 @@ Esta lista serve para acompanhar o progresso das tarefas de organização do **H
 
 ---
 
+## Governança e equipe organizadora
+
+*   [x] Registrar Haroldo Curti na Coordenação Geral.
+*   [x] Registrar Mariana Cintra na Coordenação Pedagógica.
+*   [x] Registrar Marcus Facine como integrante da frente de Comunicação e pessoa mentora durante o evento.
+*   [ ] Definir as pessoas responsáveis pelas frentes de Tecnologia, Logística, Parcerias, coordenação da mentoria e Secretaria e Atendimento.
+
+---
+
 ## 🎯 Fase 1: Alinhamento e Estruturação Pedagógica
 *   [x] Definir a identidade conceitual e manifesto do evento (consolidado no [Projeto Hackathon 2026.md](file:///c:/Users/inomi/OneDrive%20-%20SENAC%20-%20SP/TI/Desenvolvimento%20de%20Sistemas/T01%20(teste)/hackathon%202026/Projeto%20Hackathon%202026.md)).
 *   [x] Elaborar o esboço do regulamento oficial (salvo em [regulamento.md](file:///c:/Users/inomi/OneDrive%20-%20SENAC%20-%20SP/TI/Desenvolvimento%20de%20Sistemas/T01%20(teste)/hackathon%202026/regulamento.md)).
@@ -17,6 +26,7 @@ Esta lista serve para acompanhar o progresso das tarefas de organização do **H
 
 ### Fase 2A: Mobilização Interna
 
+*   [x] Registrar Marcus Facine como primeiro integrante confirmado da frente de Comunicação.
 *   [ ] Preparar uma apresentação breve com propósito, estágio atual, decisões abertas e formas de participação.
 *   [ ] Mapear os públicos internos por área, grupo de cursos e período.
 *   [ ] Agendar encontros de lançamento em horários que contemplem diferentes períodos.
@@ -49,6 +59,7 @@ Esta lista serve para acompanhar o progresso das tarefas de organização do **H
 ---
 
 ## ⚖️ Fase 4: Mentoria e Banca Avaliadora
+*   [x] Registrar Marcus Facine como primeira pessoa confirmada para a mentoria durante o evento.
 *   [ ] Convidar docentes da unidade para atuarem como mentores no Dia 2 do evento.
 *   [ ] Elaborar um guia rápido/roteiro de mentoria baseada em escuta ativa e mediação (sem entregar soluções prontas).
 *   [ ] Convidar pessoas especialistas das áreas técnica, social e de negócios para a banca avaliadora e confirmar presença.

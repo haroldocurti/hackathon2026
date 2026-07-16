@@ -12,8 +12,9 @@ Atualmente, a pasta está organizada da seguinte forma:
 
 *   **`README.md`**: Este guia de navegação e status do projeto (este arquivo).
 *   **[index.html](index.html)**: Central da organização, com status atual, decisões, cronograma, frentes de trabalho e biblioteca do projeto.
-*   **Páginas HTML internas**: `cronograma.html`, `status.html`, `mobilizacao-interna.html`, `projeto.html`, `regulamento.html`, `tarefas.html`, `trilhas.html`, `tematica.html`, `fundamentos.html` e `portal.html` apresentam o conteúdo dos documentos em linguagem e navegação web.
+*   **Páginas HTML internas**: `cronograma.html`, `status.html`, `equipe.html`, `mobilizacao-interna.html`, `jornada-participante.html`, `projeto.html`, `regulamento.html`, `tarefas.html`, `trilhas.html`, `tematica.html`, `fundamentos.html` e `portal.html` apresentam o conteúdo dos documentos em linguagem e navegação web.
 *   **[cronograma-desenvolvimento.md](cronograma-desenvolvimento.md)**: Cronograma mestre do projeto, com prazos, entregas, responsáveis sugeridos, dependências e marcos de decisão.
+*   **[equipe-organizadora.md](equipe-organizadora.md)**: Registro das pessoas confirmadas, suas atribuições e das frentes que ainda precisam de definição.
 *   **[afazeres.md](file:///c:/Users/inomi/OneDrive%20-%20SENAC%20-%20SP/TI/Desenvolvimento%20de%20Sistemas/T01%20(teste)/hackathon%202026/afazeres.md)**: Lista de tarefas para controle e acompanhamento do planejamento do evento.
 *   **[Projeto Hackathon 2026.md](file:///c:/Users/inomi/OneDrive%20-%20SENAC%20-%20SP/TI/Desenvolvimento%20de%20Sistemas/T01%20(teste)/hackathon%202026/Projeto%20Hackathon%202026.md)**: Documento de referência do projeto inicial, contendo manifesto, trilhas de desafios, critérios de avaliação e resultados esperados.
 *   **[regulamento.md](file:///c:/Users/inomi/OneDrive%20-%20SENAC%20-%20SP/TI/Desenvolvimento%20de%20Sistemas/T01%20(teste)/hackathon%202026/regulamento.md)**: Esboço do regulamento do evento, incluindo regras de participação, critérios de avaliação e dinâmica geral.

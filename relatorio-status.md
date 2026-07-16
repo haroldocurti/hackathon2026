@@ -12,6 +12,18 @@
 
 ---
 
+## Equipe organizadora — primeiras definições
+
+| Pessoa | Atuação na unidade | Atribuição confirmada |
+| --- | --- | --- |
+| **Haroldo Curti** | Docente da área de TI | Coordenação Geral |
+| **Mariana Cintra** | Técnica educacional | Coordenação Pedagógica |
+| **Marcus Facine** | Docente da área de TI | Integrante da frente de Comunicação e pessoa mentora durante o evento |
+
+A frente de Comunicação ainda receberá outras pessoas. A coordenação da mentoria e as demais frentes continuam em definição. Consulte o registro completo da [equipe organizadora](equipe-organizadora.md).
+
+---
+
 ## 🎯 1. Identidade Conceitual e Manifesto
 
 O **Hackathon Senac 2026** foi estruturado em torno da ideia de que **tecnologia deve ser um vetor de impacto social e transformação real**. O foco central do evento vai além da programação: busca-se o desenvolvimento de soluções viáveis, inclusivas e que resolvam dores reais da comunidade local.
@@ -102,6 +114,7 @@ gantt
 *   [x] Elaboração das 5 trilhas com frentes de problematização específicas.
 *   [x] Estruturação da metodologia de avaliação e pesos dos critérios.
 *   [x] Redação do primeiro esboço do Regulamento Geral.
+*   [x] Registro das primeiras atribuições da equipe organizadora: Coordenação Geral, Coordenação Pedagógica, Comunicação e uma pessoa mentora.
 
 ### ⏳ Próximos Passos Pedagógicos (Fase 1 - Pendentes):
 *   [ ] **Revisão final do Regulamento Geral** com a coordenação pedagógica da unidade.
@@ -111,10 +124,10 @@ gantt
 *   **Fase 2A (Mobilização Interna):** Apresentar o projeto a docentes e equipes internas, abrir espaços de escuta e cocriação, mapear interesses e formar uma rede mobilizadora.
 *   **Fase 2B (Divulgação para Estudantes):** Após a mobilização interna, criar a campanha, preparar docentes e equipes de apoio e apresentar o evento às turmas com mensagens e materiais consistentes.
 *   **Fase 3 (Logística/Infraestrutura):** Reserva do auditório e laboratórios no Senac, teste de capacidade de banda de Wi-Fi e contato com empresas para possível apoio ou incubação.
-*   **Fase 4 (Banca/Mentoria):** Convidar especialistas para a banca avaliadora e docentes para a mentoria do Dia 2, além de preparar os instrumentos de avaliação.
+*   **Fase 4 (Banca/Mentoria):** Marcus Facine já está confirmado como pessoa mentora. Ainda é necessário definir a coordenação da mentoria, convidar outras pessoas, formar a banca avaliadora e preparar os instrumentos de avaliação.
 
 ---
 
 > [!TIP]
 > **Próxima Ação Recomendada para o Grupo de Planejamento:**  
-> Agendar uma reunião de alinhamento com a coordenação para homologar as regras do **Regulamento** e planejar a oficina de cocriação com os docentes para mapeamento das UCs participantes.
+> Agendar uma reunião de alinhamento entre Haroldo Curti, na Coordenação Geral, e Mariana Cintra, na Coordenação Pedagógica, para homologar as regras do **Regulamento** e planejar a oficina de cocriação com a equipe docente para mapear as UCs participantes.

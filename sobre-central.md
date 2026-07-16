@@ -29,6 +29,7 @@ Participantes, integrantes da banca avaliadora e empresas parceiras também pode
 | Visão geral | Fase atual, decisões imediatas, marcos e atalhos. |
 | Status | Diagnóstico do projeto e frentes que precisam avançar. |
 | Mobilização interna | Estratégia para envolver docentes e equipes antes da divulgação para estudantes. |
+| Jornada do participante | Narrativa visual do primeiro convite aos desdobramentos após o evento. |
 | Cronograma | Entregas, prazos, responsabilidades, dependências e marcos. |
 | Projeto | Manifesto, públicos, estrutura, resultados e proposta institucional. |
 | Regulamento | Regras de participação, entregas, avaliação e conduta. |

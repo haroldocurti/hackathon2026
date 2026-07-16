@@ -1,6 +1,6 @@
 # Cronograma de Desenvolvimento — Hackathon Senac Ribeirão Preto 2026
 
-**Versão:** 1.0
+**Versão:** 1.1
 
 **Data-base:** 13 de julho de 2026
 
@@ -25,24 +25,24 @@
 | Mobilização interna | Não iniciada | Apresentar o projeto, abrir a escuta e formar uma rede mobilizadora |
 | Inscrições | Não iniciadas | Definir ferramenta, campos, política de dados e período |
 | Infraestrutura e logística | Não iniciadas | Reservar espaços e validar capacidade operacional |
-| Mentoria e banca avaliadora | Não iniciadas | Definir perfis, convidar e confirmar participantes |
+| Mentoria e banca avaliadora | Em formação; Marcus Facine confirmado como pessoa mentora | Definir perfis, coordenação da mentoria, banca e demais participantes |
 | Programação dos dias | Apenas macroestrutura | Fechar agenda por horário e plano operacional |
 | Pós-evento | Não iniciado | Preparar avaliação, certificados e relatório final |
 
-## 2. Papéis sugeridos
+## 2. Papéis e responsáveis
 
-Os responsáveis abaixo são papéis, não nomes. A comissão deve associar cada papel a uma pessoa até **17/7**.
+As primeiras atribuições já foram confirmadas. A composição completa e o histórico das definições estão na página da [equipe organizadora](equipe-organizadora.md). As frentes restantes devem ter uma pessoa responsável até **17/7**.
 
-| Sigla | Papel | Responsabilidade principal |
-| --- | --- | --- |
-| CO | Coordenação do evento | Decisões, escopo, orçamento e articulação institucional |
-| CP | Coordenação pedagógica | Regulamento, UCs, indicadores e coerência educacional |
-| COM | Comunicação | Identidade visual, campanha, site e comunicados |
-| TI | Tecnologia e infraestrutura | Site, formulários, rede, equipamentos e suporte |
-| LOG | Logística e operação | Espaços, alimentação, sinalização, materiais e segurança |
-| PAR | Parcerias | Empresas, premiação, banca avaliadora e apoios externos |
-| MEN | Mentoria | Seleção, preparação e escala de mentores |
-| SEC | Secretaria/atendimento | Inscrições, listas, autorizações, dúvidas e certificados |
+| Sigla | Papel | Responsabilidade principal | Definição atual |
+| --- | --- | --- | --- |
+| CO | Coordenação Geral | Decisões, escopo, orçamento e articulação institucional | **Haroldo Curti** |
+| CP | Coordenação Pedagógica | Regulamento, UCs, indicadores e coerência educacional | **Mariana Cintra** |
+| COM | Comunicação | Identidade visual, campanha, site e comunicados | **Marcus Facine integra a frente; composição em formação** |
+| TI | Tecnologia e infraestrutura | Site, formulários, rede, equipamentos e suporte | A definir |
+| LOG | Logística e operação | Espaços, alimentação, sinalização, materiais e segurança | A definir |
+| PAR | Parcerias | Empresas, premiação, banca avaliadora e apoios externos | A definir |
+| MEN | Coordenação da mentoria | Seleção, preparação e escala de pessoas mentoras | Coordenação a definir; **Marcus Facine confirmado como mentor durante o evento** |
+| SEC | Secretaria e atendimento | Inscrições, listas, autorizações, dúvidas e certificados | A definir |
 
 ## 3. Cronograma mestre
 
@@ -117,7 +117,7 @@ Os responsáveis abaixo são papéis, não nomes. A comissão deve associar cada
 ## 6. Caminho crítico e riscos imediatos
 
 1. **Homologação do escopo e regulamento:** bloqueia formulário, site, divulgação e convites externos.
-2. **Definição de responsáveis:** sem donos por frente, o cronograma não é executável.
+2. **Definição das responsabilidades restantes:** sem uma pessoa responsável em cada frente, o cronograma não é executável.
 3. **Mobilização interna:** sem compreensão e participação das equipes, a divulgação para estudantes perde alcance e consistência.
 4. **Reserva de espaços e orçamento:** atraso pode limitar a quantidade de participantes.
 5. **Inscrições e confirmação de público:** determinam alimentação, salas, materiais e escala de apoio.
@@ -126,7 +126,8 @@ Os responsáveis abaixo são papéis, não nomes. A comissão deve associar cada
 
 ## 7. Próximas ações — semana de 13 a 17 de julho
 
-- [ ] Nomear uma pessoa para cada papel do cronograma.
+- [x] Registrar Haroldo Curti na Coordenação Geral, Mariana Cintra na Coordenação Pedagógica e Marcus Facine na Comunicação e na mentoria do evento.
+- [ ] Completar a nomeação das pessoas responsáveis pelas demais frentes.
 - [ ] Confirmar o nome oficial do evento e a manutenção ou não da categoria Hackateen.
 - [ ] Agendar a homologação do regulamento com a coordenação pedagógica.
 - [ ] Definir público máximo e estimativa de orçamento.

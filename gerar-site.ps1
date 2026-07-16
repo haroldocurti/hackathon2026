@@ -7,6 +7,7 @@ $ErrorActionPreference = 'Stop'
 $pages = @(
     @{ File = 'cronograma.html'; Title = 'Cronograma mestre'; Eyebrow = 'Planejamento'; Description = 'Prazos, entregas, responsáveis, dependências e marcos de decisão até o pós-evento.'; Sources = @('cronograma-desenvolvimento.md') },
     @{ File = 'status.html'; Title = 'Status do projeto'; Eyebrow = 'Visão executiva'; Description = 'O que já foi consolidado, o que está em andamento e quais frentes precisam avançar.'; Sources = @('relatorio-status.md') },
+    @{ File = 'equipe.html'; Title = 'Equipe organizadora'; Eyebrow = 'Governança'; Description = 'Pessoas confirmadas, atribuições assumidas e responsabilidades que ainda precisam ser definidas.'; Sources = @('equipe-organizadora.md') },
     @{ File = 'mobilizacao-interna.html'; Title = 'Mobilização interna'; Eyebrow = 'Fase 2A'; Description = 'Estratégia para envolver docentes e equipes internas antes da divulgação para estudantes.'; Sources = @('mobilizacao-interna.md') },
     @{ File = 'projeto.html'; Title = 'Projeto Hackathon 2026'; Eyebrow = 'Proposta institucional'; Description = 'Manifesto, estrutura, públicos, entregas, avaliação e resultados esperados.'; Sources = @('Projeto Hackathon 2026.md') },
     @{ File = 'regulamento.html'; Title = 'Regulamento geral'; Eyebrow = 'Regras do evento'; Description = 'Elegibilidade, equipes, dinâmica, entregas, avaliação, premiação e conduta.'; Sources = @('regulamento.md') },
@@ -21,23 +22,49 @@ $nav = @(
     @{ File = 'index.html'; Label = 'Visão geral' },
     @{ File = 'status.html'; Label = 'Status' },
     @{ File = 'cronograma.html'; Label = 'Cronograma' },
+    @{ File = 'mobilizacao-interna.html'; Label = 'Mobilização' },
+    @{ File = 'jornada-participante.html'; Label = 'Jornada' },
+    @{ File = 'index.html#documentos'; Label = 'Biblioteca' }
+)
+
+$mobileNav = @(
+    @{ File = 'index.html'; Label = 'Visão geral' },
+    @{ File = 'status.html'; Label = 'Status' },
+    @{ File = 'equipe.html'; Label = 'Equipe organizadora' },
+    @{ File = 'cronograma.html'; Label = 'Cronograma' },
+    @{ File = 'mobilizacao-interna.html'; Label = 'Mobilização interna' },
+    @{ File = 'jornada-participante.html'; Label = 'Jornada do participante' },
     @{ File = 'projeto.html'; Label = 'Projeto' },
     @{ File = 'regulamento.html'; Label = 'Regulamento' },
     @{ File = 'trilhas.html'; Label = 'Trilhas' },
-    @{ File = 'tarefas.html'; Label = 'Tarefas' }
+    @{ File = 'tarefas.html'; Label = 'Tarefas' },
+    @{ File = 'tematica.html'; Label = 'Temática' },
+    @{ File = 'fundamentos.html'; Label = 'Fundamentos' },
+    @{ File = 'portal.html'; Label = 'Sobre esta central' }
 )
 
 function Get-Navigation([string]$CurrentFile) {
+    $primaryPages = @('index.html', 'status.html', 'cronograma.html', 'mobilizacao-interna.html', 'jornada-participante.html')
     return ($nav | ForEach-Object {
-        $active = if ($_.File -eq $CurrentFile) { ' class="active" aria-current="page"' } else { '' }
+        $isLibrary = $_.File -eq 'index.html#documentos'
+        $isActive = ($_.File -eq $CurrentFile) -or ($isLibrary -and $CurrentFile -notin $primaryPages)
+        $active = if ($isActive) { ' class="active" aria-current="page"' } else { '' }
         '<a href="{0}"{2}>{1}</a>' -f $_.File, $_.Label, $active
     }) -join "`n          "
+}
+
+function Get-MobileNavigation([string]$CurrentFile) {
+    return ($mobileNav | ForEach-Object {
+        $active = if ($_.File -eq $CurrentFile) { ' class="active" aria-current="page"' } else { '' }
+        '<a href="{0}"{2}>{1}</a>' -f $_.File, $_.Label, $active
+    }) -join "`n            "
 }
 
 function Update-InternalLinks([string]$Html) {
     $replacements = @(
         @{ Pattern = 'href="[^"]*cronograma-desenvolvimento\.md"'; Value = 'href="cronograma.html"' },
         @{ Pattern = 'href="[^"]*relatorio-status\.md"'; Value = 'href="status.html"' },
+        @{ Pattern = 'href="[^"]*equipe-organizadora\.md"'; Value = 'href="equipe.html"' },
         @{ Pattern = 'href="[^"]*mobilizacao-interna\.md"'; Value = 'href="mobilizacao-interna.html"' },
         @{ Pattern = 'href="[^"]*afazeres\.md"'; Value = 'href="tarefas.html"' },
         @{ Pattern = 'href="[^"]*regulamento\.md"'; Value = 'href="regulamento.html"' },
@@ -103,6 +130,7 @@ foreach ($page in $pages) {
     $content = Get-PageContent $page
     $toc = Get-TableOfContents $content
     $navigation = Get-Navigation $page.File
+    $mobileNavigation = Get-MobileNavigation $page.File
     $related = Get-RelatedLinks $page.File
     $title = $page.Title
     $eyebrow = $page.Eyebrow
@@ -128,7 +156,13 @@ foreach ($page in $pages) {
       <nav class="nav" aria-label="Navegação principal">
           $navigation
       </nav>
-      <a class="topbar-action" href="index.html">Visão geral</a>
+      <a class="topbar-action" href="projeto.html">Projeto do evento</a>
+      <details class="mobile-menu">
+        <summary>Menu</summary>
+        <nav class="mobile-menu-panel" aria-label="Navegação principal em telas menores">
+            $mobileNavigation
+        </nav>
+      </details>
     </header>
     <main id="conteudo" class="page-main">
       <header class="page-hero">
